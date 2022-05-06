@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vershe
 - 👀 I’m interested in Graphic Design, Web Programming and User Interface (UI) 
-- 🌱 I’m currently learning Web Programming with Python and JavaScript
+- 🌱 I’m currently learning Web Programming with HTML, PHP, Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @veronicaxxi_ on Instagram (Instagram.com/veronicaxxi_)
 
